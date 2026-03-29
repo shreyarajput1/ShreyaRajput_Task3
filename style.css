@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(230, 125, 125);
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color:rgb(174, 209, 48);
+}
+.head span{
+    color:red;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+}
+p span{
+    font-size: 3rem;
+    color: black;
+}
+ul  mark{
+    background-color: yellow;
+
+}
+ul  span{
+    background-color: blue;
+}
+ul{
+    color: white;
+}
+ol mark{
+    color: blue;
+}
+ol span{
+    color: red;
+}
